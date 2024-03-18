@@ -1,5 +1,7 @@
 **Flutter Isolate**
 
+![alt text](app_review.gif)
+
 This Flutter application demonstrates the performance difference between performing heavy computations on the main UI thread and offloading them to a separate isolate.
 
 **For a deeper understanding of isolates and their applications in Flutter, refer to this article:**
