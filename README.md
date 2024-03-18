@@ -4,7 +4,7 @@
 
 This Flutter application demonstrates the performance difference between performing heavy computations on the main UI thread and offloading them to a separate isolate.
 
-**For a deeper understanding of isolates and their applications in Flutter, refer to this article:**
+**For a deeper understanding of isolates and their use cases in Flutter, refer to this article:**
 
 Concurrency and Isolates in Flutter and Dart by me (https://nimafarzin-pr.medium.com/concurrency-and-isolates-in-flutter-and-dart-81d6a36932e8)
 
